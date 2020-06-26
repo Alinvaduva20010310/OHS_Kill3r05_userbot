@@ -54,7 +54,7 @@ async def _(event):
     chat = "@hazmat_suit_bot"
     sender = reply_message.sender
     if reply_message.sender.bot:
-       await event.edit(f"`{DEFAULTUSER}:`❌**Errore:** `Rispondi ad un utente.`")
+       await event.edit(f"`{DEFAULTUSER}:`❌** Errore:** `Rispondi ad un utente.`")
        return
     await event.edit(f"`{DEFAULTUSER}:`** Creando l'immagine...**")
     async with bot.conversation(chat) as conv:
