@@ -22,4 +22,4 @@
 
 ### • 💡 ash's link
 
-• 🔗 https://t.me/zNotASH
+• 🔗 https://t.me/OHS_kill3r05
