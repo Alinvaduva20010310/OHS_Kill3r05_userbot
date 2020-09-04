@@ -1,6 +1,6 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
+  "name": "OHS_Kill3r05_userbot",
+  "description": "Userbot created by a OHS_kill3r05 and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
   "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/ohskiller/OHS_Kill3r05_userbot.git",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
