@@ -11,5 +11,5 @@ from userbot.utils import admin_cmd
 async def amireallyalive(alive):
     await alive.edit("**💭 Userbot Online.**\n"
 		     "**📟 Python:** `3.7.3`\n"
-	             "__⌨️ Created by @zNotASH.__")
+	             "__⌨️ Created by @OHS_kill3r05.__")
 
